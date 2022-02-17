@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6508886-f15e-4f1c-8f82-5018837a6334" name="Default" comment="" />
+    <list default="true" id="f6508886-f15e-4f1c-8f82-5018837a6334" name="Default" comment="FIRST commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +24,9 @@
     <findStrings>
       <find>httpmessage</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -86,6 +91,7 @@
     <option name="height" value="851" />
   </component>
   <component name="ProjectId" id="258ooxrYZ9W2WrUPrIMEAJlAko8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -300,7 +306,17 @@
       <workItem from="1644920238531" duration="5198000" />
       <workItem from="1645008013812" duration="562000" />
       <workItem from="1645008609958" duration="307000" />
+      <workItem from="1645008947762" duration="1842000" />
+      <workItem from="1645065682963" duration="747000" />
     </task>
+    <task id="LOCAL-00001" summary="FIRST commit">
+      <created>1645009229272</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645009229272</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -341,6 +357,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="FIRST commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="FIRST commit" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/springboot/config/MyMvcConfig.java">
