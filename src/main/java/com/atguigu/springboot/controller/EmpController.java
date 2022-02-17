@@ -14,7 +14,6 @@ public class EmpController {
     @Autowired
     EmployeeDao employeeDao;
 
-
     //员工列表
     public String list(Model model){
         Collection<Employee> employees = employeeDao.getAll();
